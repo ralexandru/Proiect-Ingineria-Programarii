@@ -1,0 +1,17 @@
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.csproj.GenerateResource.cache
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.AssemblyInfoInputs.cache
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.AssemblyInfo.cs
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.csproj.CoreCompileInputs.cache
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\bin\Debug\net8.0-windows\Proiect_IP_w_UI.exe
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\bin\Debug\net8.0-windows\Proiect_IP_w_UI.deps.json
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\bin\Debug\net8.0-windows\Proiect_IP_w_UI.runtimeconfig.json
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\bin\Debug\net8.0-windows\Proiect_IP_w_UI.dll
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\bin\Debug\net8.0-windows\Proiect_IP_w_UI.pdb
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.Form1.resources
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.dll
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\refint\Proiect_IP_w_UI.dll
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.pdb
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.genruntimeconfig.cache
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\ref\Proiect_IP_w_UI.dll
+D:\Repositories\Proiect_IP_w_UI\Proiect_IP_w_UI\obj\Debug\net8.0-windows\Proiect_IP_w_UI.sourcelink.json
